@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyc
+.Python
+*.egg-info/
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Dev screenshots / temp files
+screenshot*.png
+mobile_phone_screenshot.png
+
+# Editor
+.vscode/
+.idea/
+*.swp
+*.swo
